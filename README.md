@@ -5,7 +5,7 @@ Makes use of input throttling to improve the user experience when searching for 
 
 ## Getting Started
 
-Checkout this repo, install dependencies, then start the webpack process with the following:
+The following assumes that `npm` is installed. Checkout this repo, install dependencies, then start the webpack process with the following:
 
 ```
 > git clone https://github.com/chrishodgson/ReactYouTubeSearch.git
