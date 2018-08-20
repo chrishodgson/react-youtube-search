@@ -1,6 +1,6 @@
 # ReactYouTubeSearch
 
-A simple YouTube search screen that searches for videos as you type with the option to watch a video from the list. 
+A simple YouTube search screen that searches for videos as you type with the option to select a video from the list to watch. 
 Makes use of input throttling to improve the user experience when searching for videos. 
 
 ## Getting Started
