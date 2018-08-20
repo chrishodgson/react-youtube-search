@@ -16,5 +16,5 @@ Checkout this repo, install dependencies, then start the webpack process with th
 
 ## YouTube API Key
 
-A default YouTube API key is setup fro this project. This can be changed by editing the `API_KEY` in `src/index.js`.
+A default YouTube API key is setup for this project. This can be changed by editing the `API_KEY` in `src/index.js`.
 You can register your own api key at the Google Cloud Platform Console `https://console.cloud.google.com/` 
